@@ -1,0 +1,7 @@
+#  3D Slicer output. SPACE=LPS
+
+mtllib Segmentation.mtl
+
+
+g grp1
+usemtl mtl1
